@@ -1,0 +1,60 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "name":"Iphone XS Max",
+            "image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-xs/gold/Apple-iPhoneXs-Gold-1-3x.jpg",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        },
+        {
+            "id": 2,
+            "name":"Iphone XS Max",
+            "image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-xs/gold/Apple-iPhoneXs-Gold-1-3x.jpg",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        },
+        {
+            "id": 3,
+            "name":"Iphone XS Max",
+            "image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-xs/gold/Apple-iPhoneXs-Gold-1-3x.jpg",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        },
+        {
+            "id": 4,
+            "name":"Iphone XS Max",
+            "image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-xs/gold/Apple-iPhoneXs-Gold-1-3x.jpg",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        },
+        {
+            "id": 5,
+            "name":"Iphone XS Max",
+            "image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-xs/gold/Apple-iPhoneXs-Gold-1-3x.jpg",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        },
+        {
+            "id": 6,
+            "name":"Iphone XS Max",
+            "image":"",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        },
+        {
+            "id": 7,
+            "name":"Iphone XS Max",
+            "image":"",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        },
+        {
+            "id": 8,
+            "name":"Iphone XS Max",
+            "image":"",
+            "price": 7899,
+            "description":"ASDASDASASD"
+        }
+    ]
+}
