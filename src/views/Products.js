@@ -3,7 +3,7 @@ import { Products } from '../api/Products';
 import { ProductItem } from '../components/ProductItem';
 import './Products.css';
 
-export class ProductList extends Component{
+export class ProductList extends React.Component{
     state = {
         products:[]
     }
@@ -11,19 +11,22 @@ export class ProductList extends Component{
         const { items } = await Products.getProducts();
         console.log(items);
         this.setState({products:items});
-        
+        console.log(this.state.products[0]);
     }
 
     render(){
         return(
-            <ul className="products-list">
+            <div>
+                <p>asdasd</p>
+              
                 
                 {this.state.products.map( p => {
                  
                     <ProductItem product={p}/>  
-                  
+                 
                 })}
-            </ul>
+            
+            </div>
         );
     }
 }

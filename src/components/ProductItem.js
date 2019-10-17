@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 
-export const ProductItem = ({ product }) => {
+export const ProductItem = ({ product }) => (
   
     <li className="product-item">
         <img src={require(`../assets/images/${product.image}`)} alt={product.name}/>
@@ -14,4 +14,4 @@ export const ProductItem = ({ product }) => {
         <p><Link to={`/product/${product.id}`}></Link></p>
     </li>
    
-};
+);
